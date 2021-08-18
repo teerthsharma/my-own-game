@@ -28,6 +28,7 @@ function setup(){
   game = new Game();
   game.getState();
   game.start();
+  console.log(hi players press p,e,s,t,j)
 }
 
 
